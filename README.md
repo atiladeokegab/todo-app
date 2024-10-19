@@ -28,3 +28,8 @@ The code is organized in a modular structure that emphasizes readability and mai
    ```bash
    git clone <repository-url>
    cd todo-list-app
+2. Install the required packages:
+   pip install PySimpleGUI
+3. Run the application:
+   python todo_list_app.py
+
