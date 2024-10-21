@@ -1,6 +1,6 @@
 # function to reduce redundances
 FILEPATH = "todos.txt"
-
+#read with care
 def get_todos(filepath = FILEPATH):
     """
     Redad a text file and return the list of
