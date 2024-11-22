@@ -25,13 +25,14 @@ The code is organized in a modular structure that emphasizes readability and mai
 
 ## 💻 Getting Started
 1. Clone the repository:
+   note: you need to replace the url with the link required
    ```bash
    git clone <repository-url>
    cd todo-list-app
-2. Install the required packages:
+3. Install the required packages:
    ```bash
    pip install PySimpleGUI
-3. Run the application:
+4. Run the application:
    just for clarity this would run the file directly
    ```bash
    python todo_list_app.py
