@@ -32,6 +32,7 @@ The code is organized in a modular structure that emphasizes readability and mai
    ```bash
    pip install PySimpleGUI
 3. Run the application:
+   just for clarity this would run the file directly
    ```bash
    python todo_list_app.py
 
